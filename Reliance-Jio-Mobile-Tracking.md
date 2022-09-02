@@ -1,6 +1,5 @@
 # Jio Mobile Number Tracking
-Track any Reliance Jio mobile nubmer details by using our [Jio mobile number tracker](https://calltracer.org/jio-mobile-tracking/).
 
-You will get complete owner name address details and GPS live location details on map. You can even report any mobile number for making spam, vulgar calls or sending abusive, threatning messages which will help other people.
+Track any Reliance Jio mobile number name address location details using our [Jio mobile number tracking](https://calltracer.org/jio-mobile-tracking/) software. You will get complete GPS location details on map and check Jio SIM card owner details. If any person is making spam calls, you can can easily report your complaint for any mobile number.
 
 https://calltracer.org/jio-mobile-tracking/
