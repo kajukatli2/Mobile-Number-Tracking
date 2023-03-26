@@ -8,7 +8,12 @@ The website has a dedicated team of volunteers who keep updating the database so
 
 The Android App is under-development and beta realease is around the corner. The [Mobile Number Tracking](https://CallTracer.org/) tool is very much useful to people who are not tech savy and do not want to use complicated softwares. Simplicity is must to have. The webapp gives an option to report any complain about any mobile number, so that other users can be alerted. Current United States, United Kingdom, India phone number databse have been updated and the team is working hard to add more countries in the list.
 
-- [Track Airtel mobile number](https://calltracer.org/airtel-mobile-tracking/)
-- [Trace Jio mobile number](https://calltracer.org/jio-mobile-tracking/)
-- [Track Vodafone Idea mobile number](https://calltracer.org/vodafone-idea-mobile-tracking/)
-- [Trace BSNL mobile number](https://calltracer.org/bsnl-mobile-tracking/)
+- [USA Phone Lookup](https://calltracer.org/)
+- [UK Phone Tracker](https://calltracer.org/uk/)
+- [Brazil Phone Tracking](https://calltracer.org/br/)
+- [Canada Phone Details](https://calltracer.org/ca/)
+- [India Mobile Details](https://calltracer.in/)
+- [Track Airtel mobile number](https://calltracer.in/airtel-mobile-tracking/)
+- [Trace Jio mobile number](https://calltracer.in/jio-mobile-tracking/)
+- [Track Vodafone Idea mobile number](https://calltracer.in/vodafone-idea-mobile-tracking/)
+- [Trace BSNL mobile number](https://calltracer.in/bsnl-mobile-tracking/)
